@@ -1,1 +1,1 @@
-# Kanji App
+# Kanji Mobile
